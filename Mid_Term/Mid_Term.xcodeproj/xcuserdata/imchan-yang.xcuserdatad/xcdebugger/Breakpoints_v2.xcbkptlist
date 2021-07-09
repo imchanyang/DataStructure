@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C741F923-D265-4A87-B719-6127B6DB4F31"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6C686A0-E36E-4174-8C37-7F072B852C50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mid_Term/ &#x1103;&#x1169;&#x11bc;&#x1100;&#x1175;&#x1103;&#x1173;&#x11af;&#x110b;&#x1174; &#x110c;&#x1161;&#x1109;&#x1175;&#x11a8;&#x1103;&#x1173;&#x11af;&#x110b;&#x1175; &#x1106;&#x1169;&#x110b;&#x1175;&#x1100;&#x1175; &#x1109;&#x1175;&#x110c;&#x1161;&#x11a8;&#x1112;&#x1161;&#x1102;&#x1173;&#x11ab; &#x1100;&#x1165;&#x110b;&#x1175;&#x11b7;                 ;              curDepth = newDepth;         }         Tree tree(newNode);         tree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8B4EBAE-651F-41DA-BB36-A4F1B195D5B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mid_Term/ &#x1103;&#x1169;&#x11bc;&#x1100;&#x1175;&#x1103;&#x1173;&#x11af;&#x110b;&#x1174; &#x110c;&#x1161;&#x1109;&#x1175;&#x11a8;&#x1103;&#x1173;&#x11af;&#x110b;&#x1175; &#x1106;&#x1169;&#x110b;&#x1175;&#x1100;&#x1175; &#x1109;&#x1175;&#x110c;&#x1161;&#x11a8;&#x1112;&#x1161;&#x1102;&#x1173;&#x11ab; &#x1100;&#x1165;&#x110b;&#x1175;&#x11b7;                 ;              curDepth = newDepth;         }         Tree tree(newNode);         tree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B7C66B1-DF89-4938-8563-5644C02D6574"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mid_Term/ &#x1103;&#x1169;&#x11bc;&#x1100;&#x1175;&#x1103;&#x1173;&#x11af;&#x110b;&#x1174; &#x110c;&#x1161;&#x1109;&#x1175;&#x11a8;&#x1103;&#x1173;&#x11af;&#x110b;&#x1175; &#x1106;&#x1169;&#x110b;&#x1175;&#x1100;&#x1175; &#x1109;&#x1175;&#x110c;&#x1161;&#x11a8;&#x1112;&#x1161;&#x1102;&#x1173;&#x11ab; &#x1100;&#x1165;&#x110b;&#x1175;&#x11b7;                 ;              curDepth = newDepth;         }         Tree tree(newNode);         tree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27CB18C2-811D-4024-8998-BD09F36FFD14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mid_Term/ &#x1103;&#x1169;&#x11bc;&#x1100;&#x1175;&#x1103;&#x1173;&#x11af;&#x110b;&#x1174; &#x110c;&#x1161;&#x1109;&#x1175;&#x11a8;&#x1103;&#x1173;&#x11af;&#x110b;&#x1175; &#x1106;&#x1169;&#x110b;&#x1175;&#x1100;&#x1175; &#x1109;&#x1175;&#x110c;&#x1161;&#x11a8;&#x1112;&#x1161;&#x1102;&#x1173;&#x11ab; &#x1100;&#x1165;&#x110b;&#x1175;&#x11b7;                 ;              curDepth = newDepth;         }         Tree tree(newNode);         tree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

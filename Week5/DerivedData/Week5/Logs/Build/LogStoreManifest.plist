@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>57C60AE7-59DB-493E-B5DE-F41FEA72EF5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57C60AE7-59DB-493E-B5DE-F41FEA72EF5B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Week5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Week5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Week5</string>
+			<key>timeStartedRecording</key>
+			<real>639677769.447451</real>
+			<key>timeStoppedRecording</key>
+			<real>639677769.806692</real>
+			<key>title</key>
+			<string>Build Week5</string>
+			<key>uniqueIdentifier</key>
+			<string>57C60AE7-59DB-493E-B5DE-F41FEA72EF5B</string>
+		</dict>
+		<key>6D7C994C-5D7D-42B2-A2C2-B9355BB16732</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D7C994C-5D7D-42B2-A2C2-B9355BB16732.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Week5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Week5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Week5</string>
+			<key>timeStartedRecording</key>
+			<real>639678844.83388102</real>
+			<key>timeStoppedRecording</key>
+			<real>639678844.85750103</real>
+			<key>title</key>
+			<string>Build Week5</string>
+			<key>uniqueIdentifier</key>
+			<string>6D7C994C-5D7D-42B2-A2C2-B9355BB16732</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

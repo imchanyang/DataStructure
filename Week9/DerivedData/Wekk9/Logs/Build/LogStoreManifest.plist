@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>037C88CD-F438-48A1-8430-B084957FD963</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>037C88CD-F438-48A1-8430-B084957FD963.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459960.08167601</real>
+			<key>timeStoppedRecording</key>
+			<real>641459960.13369298</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>037C88CD-F438-48A1-8430-B084957FD963</string>
+		</dict>
+		<key>0960002D-AA7F-4D90-8C3B-13071A68A0A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0960002D-AA7F-4D90-8C3B-13071A68A0A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458576.90730703</real>
+			<key>timeStoppedRecording</key>
+			<real>641458576.95173299</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>0960002D-AA7F-4D90-8C3B-13071A68A0A2</string>
+		</dict>
+		<key>0C47797C-669A-417E-A89E-30C7A06267E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C47797C-669A-417E-A89E-30C7A06267E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459953.56623006</real>
+			<key>timeStoppedRecording</key>
+			<real>641459954.14589095</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>0C47797C-669A-417E-A89E-30C7A06267E9</string>
+		</dict>
+		<key>2634533A-C3F7-4682-B425-E4591EB931D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2634533A-C3F7-4682-B425-E4591EB931D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458518.82740295</real>
+			<key>timeStoppedRecording</key>
+			<real>641458519.158921</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>2634533A-C3F7-4682-B425-E4591EB931D6</string>
+		</dict>
+		<key>2F450A58-5BB4-403F-99EE-38A07FC5CD80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2F450A58-5BB4-403F-99EE-38A07FC5CD80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458523.001526</real>
+			<key>timeStoppedRecording</key>
+			<real>641458523.30785799</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>2F450A58-5BB4-403F-99EE-38A07FC5CD80</string>
+		</dict>
+		<key>3826B179-198D-41F5-B767-B73CD546FA5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3826B179-198D-41F5-B767-B73CD546FA5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459799.29160798</real>
+			<key>timeStoppedRecording</key>
+			<real>641459799.67538798</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>3826B179-198D-41F5-B767-B73CD546FA5C</string>
+		</dict>
+		<key>4282D1A1-7E65-47DF-BF4D-738DE01580C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4282D1A1-7E65-47DF-BF4D-738DE01580C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641457900.35520995</real>
+			<key>timeStoppedRecording</key>
+			<real>641457900.97433197</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>4282D1A1-7E65-47DF-BF4D-738DE01580C8</string>
+		</dict>
+		<key>4708DDE7-EF07-40E7-92D6-002FF3CE1BD5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4708DDE7-EF07-40E7-92D6-002FF3CE1BD5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459915.31746805</real>
+			<key>timeStoppedRecording</key>
+			<real>641459915.64475298</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>4708DDE7-EF07-40E7-92D6-002FF3CE1BD5</string>
+		</dict>
+		<key>837E8D78-1249-471B-B88A-9B8C84CD2D70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>837E8D78-1249-471B-B88A-9B8C84CD2D70.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459659.198331</real>
+			<key>timeStoppedRecording</key>
+			<real>641459659.67620397</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>837E8D78-1249-471B-B88A-9B8C84CD2D70</string>
+		</dict>
+		<key>8A19DE4B-C55A-4B91-B662-17370018BD2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A19DE4B-C55A-4B91-B662-17370018BD2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459954.53297698</real>
+			<key>timeStoppedRecording</key>
+			<real>641459954.55004895</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>8A19DE4B-C55A-4B91-B662-17370018BD2A</string>
+		</dict>
+		<key>B3CD5BBA-41BD-4932-B9EC-19CEF9FA0EF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3CD5BBA-41BD-4932-B9EC-19CEF9FA0EF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458245.68530095</real>
+			<key>timeStoppedRecording</key>
+			<real>641458246.01976705</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>B3CD5BBA-41BD-4932-B9EC-19CEF9FA0EF7</string>
+		</dict>
+		<key>C5F6652C-B33D-4A85-82EF-E3FF56406110</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5F6652C-B33D-4A85-82EF-E3FF56406110.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458520.92459095</real>
+			<key>timeStoppedRecording</key>
+			<real>641458521.14447796</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>C5F6652C-B33D-4A85-82EF-E3FF56406110</string>
+		</dict>
+		<key>D09656C3-8158-47E0-A6EB-03BAA5CEC396</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D09656C3-8158-47E0-A6EB-03BAA5CEC396.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458545.60826004</real>
+			<key>timeStoppedRecording</key>
+			<real>641458546.07026696</real>
+			<key>title</key>
+			<string>Build Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>D09656C3-8158-47E0-A6EB-03BAA5CEC396</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

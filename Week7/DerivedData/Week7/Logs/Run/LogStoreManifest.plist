@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3265A713-3FC5-41D3-89BA-A9F1A12CF18F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3265A713-3FC5-41D3-89BA-A9F1A12CF18F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Week7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Copy of Copy of Week7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run Week7</string>
+			<key>timeStartedRecording</key>
+			<real>640361973.460361</real>
+			<key>timeStoppedRecording</key>
+			<real>640362013.61954701</real>
+			<key>title</key>
+			<string>Run Week7</string>
+			<key>uniqueIdentifier</key>
+			<string>3265A713-3FC5-41D3-89BA-A9F1A12CF18F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

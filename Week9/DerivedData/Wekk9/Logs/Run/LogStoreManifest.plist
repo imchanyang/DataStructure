@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0ABAD727-7839-4904-8422-29CD8C7D8049</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0ABAD727-7839-4904-8422-29CD8C7D8049.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458576.95325601</real>
+			<key>timeStoppedRecording</key>
+			<real>641459659.20843601</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>0ABAD727-7839-4904-8422-29CD8C7D8049</string>
+		</dict>
+		<key>157AE268-BD45-47B1-8F5C-6A6A4FCC560A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>157AE268-BD45-47B1-8F5C-6A6A4FCC560A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459799.67666602</real>
+			<key>timeStoppedRecording</key>
+			<real>641459915.32631195</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>157AE268-BD45-47B1-8F5C-6A6A4FCC560A</string>
+		</dict>
+		<key>29A03981-9176-4F16-83C4-913DD96590AB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>29A03981-9176-4F16-83C4-913DD96590AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459954.14717996</real>
+			<key>timeStoppedRecording</key>
+			<real>641459960.12338603</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>29A03981-9176-4F16-83C4-913DD96590AB</string>
+		</dict>
+		<key>33EA1990-623B-4FCA-A745-61AB0A4E2464</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>33EA1990-623B-4FCA-A745-61AB0A4E2464.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459960.13493896</real>
+			<key>timeStoppedRecording</key>
+			<real>641459966.77040005</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>33EA1990-623B-4FCA-A745-61AB0A4E2464</string>
+		</dict>
+		<key>468239E3-4B53-46F6-88E4-B49CB6E322DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>468239E3-4B53-46F6-88E4-B49CB6E322DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459659.67759502</real>
+			<key>timeStoppedRecording</key>
+			<real>641459660.60902095</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>468239E3-4B53-46F6-88E4-B49CB6E322DC</string>
+		</dict>
+		<key>5062D0C6-6D03-42C1-B668-8FFF516F180F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5062D0C6-6D03-42C1-B668-8FFF516F180F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641457900.98100197</real>
+			<key>timeStoppedRecording</key>
+			<real>641457907.32606196</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>5062D0C6-6D03-42C1-B668-8FFF516F180F</string>
+		</dict>
+		<key>5E0F4A86-0A22-4F14-ABC2-FC374836E5AA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5E0F4A86-0A22-4F14-ABC2-FC374836E5AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458523.30932295</real>
+			<key>timeStoppedRecording</key>
+			<real>641458545.59769905</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>5E0F4A86-0A22-4F14-ABC2-FC374836E5AA</string>
+		</dict>
+		<key>6AE3C498-501B-4FA1-A297-1F4CD5D3F7B9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6AE3C498-501B-4FA1-A297-1F4CD5D3F7B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641459915.64618194</real>
+			<key>timeStoppedRecording</key>
+			<real>641459953.57671797</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>6AE3C498-501B-4FA1-A297-1F4CD5D3F7B9</string>
+		</dict>
+		<key>8930875E-293E-47AD-A904-5B15A07513ED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8930875E-293E-47AD-A904-5B15A07513ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wekk9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wekk9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Wekk9</string>
+			<key>timeStartedRecording</key>
+			<real>641458546.07136905</real>
+			<key>timeStoppedRecording</key>
+			<real>641458576.937711</real>
+			<key>title</key>
+			<string>Run Wekk9</string>
+			<key>uniqueIdentifier</key>
+			<string>8930875E-293E-47AD-A904-5B15A07513ED</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
